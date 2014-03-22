@@ -1,10 +1,11 @@
 # Responsive Modules
 
-> This is a basic test of some work we did to see if 'element queries' would work for us. Essentially this uses a small piece of javascript to trigger some CSS based on the parent element. While media queries are used for the viewport or device, 'trigger points' are what we've called the widths we look at of the containing element.
+> This project explores the implementation of viewport independant, modular design - providing a higher level of control beyond the size of the viewport -  Essentially this uses a small piece of javascript to trigger some CSS based on the parent element. While media queries are used for the viewport or device, 'trigger points' are what we've called the widths we look at of the containing element.
 
 ## Credits
 
 * [Dan Donald](https://twitter.com/hereinthehive)
+* [Al Jones](https://twitter.com/itsaljones)
 
 ## License
 
